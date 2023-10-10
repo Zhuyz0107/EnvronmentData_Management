@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+    <!--客户端
+    <server class="com.briup.servers.receive.ReceiveImpl">
+        <reciver-server-port>9999</reciver-server-port>
+    </server>
+    <dbStore class="com.briup.servers.dbstore.DBStoreImpl">
+        <batch-size>50</batch-size>
+    </dbStore>-->
+    <gather class="com.briup.resolveData.GatherImpl">
+
+        <gather-file-path>data-file-simple</gather-file-path>
+        <backup-file-path>backup.txt</backup-file-path>
+    </gather>
+
+    <send class="com.briup.client.SendImpl">
+        <client-ip>localhost</client-ip>
+        <client-port>9999</client-port>
+    </send>
+
+    <backup class="com.briup.back.BackupImpl">
+
+    </backup>
+
+</environment>

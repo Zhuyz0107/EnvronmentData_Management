@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+    <server class="com.briup.servers.receive.ReceiveImpl">
+        <reciver-server-port>9999</reciver-server-port>
+    </server>
+    <dbStore class="com.briup.servers.dbstore.DBStoreImpl">
+        <batch-size>200</batch-size>
+    </dbStore>
+
+</environment>

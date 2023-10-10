@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6357747-2a93-4e09-8dfe-e6b67ff82ce9" name="192.168.80.125">
+        <fileTransfer rootFolder="/home/briup/桌面" accessType="SFTP" host="192.168.80.135" port="22" sshConfigId="335046e1-c803-4036-a126-91e195fdedf7" sshConfig="briup@192.168.80.135:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

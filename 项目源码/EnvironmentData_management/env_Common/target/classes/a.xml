@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--根标签-->
+<students><!--开始标签-->
+    <student class="" id="">
+        <id>1</id>
+        <name>tom</name>
+        <age>10</age>
+    </student>
+</students><!--结束标签-->

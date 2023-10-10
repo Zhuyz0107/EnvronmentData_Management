@@ -1,0 +1,6 @@
+2023-09-30 11:11:50,118 DEBUG [main] (ReceiveImpl.java:88) - 实现Receive接口的配置文件:com.briup.servers.ConfigurationImpl@45fe3ee3
+2023-09-30 11:11:50,120 DEBUG [main] (ReceiveImpl.java:95) - 注入属性端口号：9999
+2023-09-30 11:11:50,120  INFO [main] (DBStoreImpl.java:118) - 属性注入批处理：200
+2023-09-30 11:11:50,125  INFO [main] (ReceiveImpl.java:41) - 服务器：9999启动
+2023-09-30 11:12:07,675  INFO [pool-1-thread-1] (DruidDataSource.java:996) - {dataSource-1} inited
+2023-09-30 11:12:08,563 DEBUG [pool-1-thread-1] (DBStoreImpl.java:90) - 入库时间995

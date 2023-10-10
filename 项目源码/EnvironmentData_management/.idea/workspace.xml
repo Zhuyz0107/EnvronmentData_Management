@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="242901be-07f3-4c3e-bb0f-4f9b39646136" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2VmIivKr6d5FNqQR8NC3mDue3P1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "E:/学习项目库/EnvironmentData_management",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.1150748",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.briup.servers.receive" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习项目库\wulianwang\env_Common\src\test\java" />
+      <recent name="E:\学习项目库\wulianwang\env_Client\src\main\resources" />
+      <recent name="E:\学习项目库\wulianwang\env_Servers\src\main\resources" />
+      <recent name="E:\学习项目库\wulianwang\env_Common\src\main\java\com\briup" />
+      <recent name="E:\学习项目库\wulianwang\env_Client\src\main\java\com\briup\back" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\学习项目库\wulianwang\env_Client\src\main\java\com\briup\resolveData" />
+      <recent name="E:\学习项目库\wulianwang\env_Common\src\main\resources" />
+      <recent name="E:\学习项目库\wulianwang\env_Client\src\main\java\com\briup\back" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.briup" />
+      <recent name="com.briup.servers" />
+      <recent name="com.briup.resolveData" />
+      <recent name="com.briup.study" />
+      <recent name="com.briup.utils" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package -Dmaven.test.skip=true" />
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="ConfigurationImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.servers.ConfigurationImpl" />
+      <module name="env_Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.servers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.main.Main" />
+      <module name="env_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.servers.main.ServerMain" />
+      <module name="env_Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.servers.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestXML2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.xml.TestXML2" />
+      <module name="env_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="briup.xml.TestXML2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="briup.xml.TestXML2" />
+      <module name="env_Common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="briup.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.ServerMain" />
+        <item itemvalue="应用程序.ConfigurationImpl" />
+        <item itemvalue="应用程序.briup.xml.TestXML2" />
+        <item itemvalue="应用程序.TestXML2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\祝延章\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="242901be-07f3-4c3e-bb0f-4f9b39646136" name="更改" comment="" />
+      <created>1695434960172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695434960172</updated>
+      <workItem from="1695434961261" duration="1230000" />
+      <workItem from="1695476936581" duration="8674000" />
+      <workItem from="1695531108488" duration="4106000" />
+      <workItem from="1695535242832" duration="5104000" />
+      <workItem from="1695564285991" duration="614000" />
+      <workItem from="1695566035617" duration="8000" />
+      <workItem from="1695604894411" duration="3165000" />
+      <workItem from="1695608918057" duration="2772000" />
+      <workItem from="1695621347352" duration="4227000" />
+      <workItem from="1695650835489" duration="11811000" />
+      <workItem from="1695690110124" duration="5028000" />
+      <workItem from="1695707973016" duration="20338000" />
+      <workItem from="1695776329078" duration="3235000" />
+      <workItem from="1695779576643" duration="3625000" />
+      <workItem from="1695783221799" duration="2634000" />
+      <workItem from="1695785877983" duration="790000" />
+      <workItem from="1695794362853" duration="6121000" />
+      <workItem from="1695817058353" duration="1006000" />
+      <workItem from="1695821189328" duration="1559000" />
+      <workItem from="1695862618924" duration="20730000" />
+      <workItem from="1695949203722" duration="411000" />
+      <workItem from="1695949631001" duration="9215000" />
+      <workItem from="1695961591759" duration="5541000" />
+      <workItem from="1695978796740" duration="2018000" />
+      <workItem from="1696039636264" duration="2786000" />
+      <workItem from="1696042449445" duration="3243000" />
+      <workItem from="1696172685939" duration="1619000" />
+      <workItem from="1696228549228" duration="370000" />
+      <workItem from="1696642427709" duration="2321000" />
+      <workItem from="1696648343640" duration="80000" />
+      <workItem from="1696648628068" duration="3434000" />
+      <workItem from="1696844727290" duration="607000" />
+      <workItem from="1696847764664" duration="1002000" />
+      <workItem from="1696866524654" duration="1061000" />
+      <workItem from="1696868102094" duration="1595000" />
+      <workItem from="1696905798235" duration="40000" />
+    </task>
+    <task id="LOCAL-00001" summary="寰宇环境监测信息平台-01">
+      <option name="closed" value="true" />
+      <created>1696868357072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696868357073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="寰宇环境监测信息平台" />
+    <MESSAGE value="寰宇环境监测信息平台-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="寰宇环境监测信息平台-01" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
